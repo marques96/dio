@@ -1,2 +1,2 @@
 # DIO
-Challenges and learning from the DIO platform
+In this repository will be added my challenges proposed by the DIO course platform.
